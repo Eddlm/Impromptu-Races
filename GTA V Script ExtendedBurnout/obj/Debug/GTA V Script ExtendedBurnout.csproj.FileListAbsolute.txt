@@ -1,6 +1,7 @@
 D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\bin\Debug\ScriptHookVDotNet.dll
-D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\obj\Debug\GTA V Script ExtendedBurnout.csprojResolveAssemblyReference.cache
 D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\bin\Debug\ImpromptuRaces.dll
 D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\bin\Debug\ImpromptuRaces.pdb
 D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\obj\Debug\ImpromptuRaces.dll
 D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\obj\Debug\ImpromptuRaces.pdb
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\bin\Debug\NativeUI.dll
+D:\Mis Archivos\Proyectos\GTAVScripting\ScriptProjects\GTA V Script ExtendedBurnout\GTA V Script ExtendedBurnout\obj\Debug\GTA V Script ExtendedBurnout.csprojResolveAssemblyReference.cache
